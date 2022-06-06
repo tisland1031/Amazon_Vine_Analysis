@@ -19,7 +19,7 @@ Figures two and three are based on five-star reviews and percentages for both Vi
 ![uppaid](https://user-images.githubusercontent.com/96746207/172064752-fa351475-c1d2-4c40-9c2d-2d6402ea25a5.png)
 
 ## Summary
-The data indicate biases toward a five-star rating from paid Vine reviewers. The number of paid Vine reviews is low,107, compared to the non-paid views,39850. 56 paid Vine reviewers gave a specific outdoor product a five-star rating. The data suggests that 52% of the paid Vine members submitted a five-star rating.  For a deeper look into bias, recommendations are below:
+The data indicate biases toward a five-star rating from paid Vine reviewers. The number of paid Vine reviews is low,107, compared to the non-paid views, 39850. Fifty-six paid Vine reviewers gave a specific outdoor product a five-star rating. The data suggest that 52%, more than half, of the paid Vine members submitted a five-star rating.  For a deeper look into bias, recommendations are below:
 1.	Analyzing data for the rest of the star ratings, one to four, and comparing the paid Vine reviewers to the non-paid reviewers.  
 2.	Create a dataset based on reviews where paid Vine reviewers and non-paid reviewers comment on the same specific product. Vine members did not review many products.  
 
